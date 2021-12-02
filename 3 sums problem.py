@@ -23,3 +23,5 @@ for i,a in enumerate(arr):
 
 
 print(result)
+
+#final output : [[-1, 2, -1], [0, 1, -1]]
